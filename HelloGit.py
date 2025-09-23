@@ -1,3 +1,3 @@
-print(" new hello git xddd")
+print(" NEW HELLO GIT 2025")
 
 
